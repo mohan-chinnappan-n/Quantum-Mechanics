@@ -5,7 +5,7 @@
 ![QM-1](img/qm-1.png)
 
 
-![QM vs CM](https://en.wikipedia.org/wiki/Classical_physics#/media/File:Modernphysicsfields.svg)
+![QM vs CM](https://upload.wikimedia.org/wikipedia/commons/5/56/Modernphysicsfields.svg)
 
 ## Resources
 - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
