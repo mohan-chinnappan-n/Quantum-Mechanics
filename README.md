@@ -14,6 +14,8 @@
 ![QM - SE](img/QM-SEqn-1.png)
 ![QM - 3](img/QM-3.png)
 ![QM - 4](img/QM-4.png)
+![QM - 5](img/QM-5.png)
+
 
 
 
