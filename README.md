@@ -3,6 +3,10 @@
 - **Classical physics**, the description of physics that existed before the theory of relativity and quantum mechanics, describes many aspects of nature at an ordinary (**macroscopic**) scale, while quantum mechanics explains the aspects of nature at small (atomic and subatomic) scales, for which classical mechanics is insufficient.
 
 ![QM-1](img/qm-1.png)
+
+
+![QM vs CM](https://en.wikipedia.org/wiki/Classical_physics#/media/File:Modernphysicsfields.svg)
+
 ## Resources
 - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
