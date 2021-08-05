@@ -7,6 +7,11 @@
 
 ![QM vs CM](https://upload.wikimedia.org/wikipedia/commons/5/56/Modernphysicsfields.svg)
 
+- Think:
+    - Electrons are waves concentrated near atomic nuclear, instead  the electron is a little point moving in an orbit 
+    - Orbits are different shapes the electron waves can take
+
+![QM - SE](img/QM-SEqn-1.png)
 ## Resources
 - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
