@@ -16,6 +16,8 @@
 ![QM - 4](img/QM-4.png)
 ![QM - 5](img/QM-5.png)
 ![QM - 6](img/QM-6.png)
+![QM - 7](img/QM-7.png)
+
 
 
 
