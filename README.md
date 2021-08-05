@@ -12,6 +12,9 @@
     - Orbits are different shapes the electron waves can take
 
 ![QM - SE](img/QM-SEqn-1.png)
+![QM - 3](img/QM-3.png)
+
+
 ## Resources
 - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
